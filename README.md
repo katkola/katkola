@@ -1,6 +1,7 @@
 - 👋 Welcome, I'm Kat
-- 👀 I’m interested in User Experience, Full-Stack and Game Design
-- 🌱 I’m currently learning C#, Unity, MySQL, Godot, Java, Python
+- 🏢 Full Stack Developer 1
+- 👀 Interested in Game Design and User Experience
+- 🌱 I’m currently learning Godot, Jmeter, Splunk
 - 📫 How to reach me: katkola@gmail.com
 
 <!---
